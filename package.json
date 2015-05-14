@@ -4,6 +4,7 @@
   "description": "Error messages used for sending data downstream.",
   "main": "lib/index.js",
   "scripts": {
+    "prepublish": "npm run build",
     "build": "babel --experiment --out-dir lib src"
   },
   "author": "",
