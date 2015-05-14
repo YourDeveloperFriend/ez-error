@@ -1,6 +1,6 @@
 {
   "name": "ez-error",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Error messages used for sending data downstream.",
   "main": "lib/index.js",
   "scripts": {
