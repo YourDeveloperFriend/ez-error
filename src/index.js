@@ -5,6 +5,7 @@ export default class UserError extends Error {
     this.message = message;
     this.status = status;
     this.errors = errors;
+    this.isUserError = true;
   }
 };
 
