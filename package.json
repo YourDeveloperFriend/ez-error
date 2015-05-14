@@ -1,7 +1,7 @@
 {
-  "name": "server-error",
+  "name": "ez-error",
   "version": "0.0.1",
-  "description": "",
+  "description": "Error messages used for sending data downstream.",
   "main": "index.js",
   "scripts": {
     "build": "babel --experiment --out-dir lib src"
