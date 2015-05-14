@@ -1,0 +1,11 @@
+{
+  "name": "server-error",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel --experiment --out-dir lib src"
+  },
+  "author": "",
+  "license": "ISC"
+}
